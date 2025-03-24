@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Github Actions course
 
 DevOps became very imprtant for organiztions willing to automate and modernaze their workloads. Thanks to its capabilities, it is never been easier create a pipelin that can do all the required staps to build 'almost' any kind of application and deploy 'almost' to any environment. All of this with a click of a button.
@@ -46,3 +47,6 @@ Samples for Github Actions DevOps pipelines and workflows.
 [![050-docker-build-workflow](https://github.com/HoussemDellai/github-actions-course/actions/workflows/050-docker-build-workflow.yml/badge.svg)](https://github.com/HoussemDellai/github-actions-course/actions/workflows/050-docker-build-workflow.yml)
 
 [![052-docker-ghcr-workflow](https://github.com/HoussemDellai/github-actions-course/actions/workflows/052-docker-ghcr-workflow.yml/badge.svg)](https://github.com/HoussemDellai/github-actions-course/actions/workflows/052-docker-ghcr-workflow.yml)
+=======
+# my-first-dotnet-project
+>>>>>>> ea071ca42b0277b0cc4a6ec1c85e65af696eaa06
