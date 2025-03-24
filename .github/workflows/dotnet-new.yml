@@ -21,10 +21,10 @@ jobs:
       with:
         dotnet-version: 8.0.x
     - name: Restore dependencies
-      run: dotnet restore ./03-app-dotnet/my-first-dotnet-project.csproj  
+      run: dotnet restore ./03-app-dotnet/app-dotnet.csproj 
 
     - name: Build
-      run: dotnet build --no-restore ./03-app-dotnet/my-first-dotnet-project.csproj 
+      run: dotnet build --no-restore ./03-app-dotnet/app-dotnet.csproj
 
     - name: Test
-      run: dotnet test --no-build --verbosity normal ./03-app-dotnet/my-first-dotnet-project.csproj  
+      run: dotnet test --no-build --verbosity normal ./03-app-dotnet/app-dotnet.csproj
